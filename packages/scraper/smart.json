@@ -1,0 +1,9 @@
+{
+  "name": "scraper",
+  "description": "Package for scraping websites with wscraper and cheerio",
+  "homepage": "",
+  "author": "Andre Nanninga <ag.nanninga@gmail.com>",
+  "version": "0.0.1",
+  "git": "",
+  "packages": {}
+}

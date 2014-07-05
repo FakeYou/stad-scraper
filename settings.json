@@ -1,0 +1,7 @@
+{
+	"dirs": {
+		"base": "/home/andre/projects/stad-scraper",
+		"app": "/home/andre/projects/stad-scraper/app",
+		"scripts": "/home/andre/projects/stad-scraper/scripts"
+	}
+}
